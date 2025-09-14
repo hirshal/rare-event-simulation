@@ -1,5 +1,3 @@
-# Shit DOES work for inid RVs 
-
 n <- 10
 m <- 100000
 gamma <- 35
