@@ -1,5 +1,3 @@
-# Light work
-
 n <- 10
 m <- 100000
 gamma <- 40
