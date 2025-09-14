@@ -1,5 +1,3 @@
-# I think this is working????
-
 n <- 10
 m <- 10000
 gamma <- 200000
